@@ -7,3 +7,9 @@ p {
     height: 100px;
     background-color: red;
 }
+
+.second-div {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
